@@ -1,0 +1,343 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="KantipurTV.np" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="General",Kantipur TV (1080p)
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JanataTV.np" tvg-logo="https://i.imgur.com/AvCQYgu.png" group-title="General",Janata TV (1080p) [Not 24/7]
+https://streaming.tvnepal.com:19360/janatatv/janatatv.m3u8
+
+#EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
+#EXTINF:-1 group-title="HindiNEWS",India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+
+#EXTINF:-1 group-title="HindiNEWS",NDTV khabar
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="Sports",Star Sports 1 HD
+http://103.122.74.6:8888/hls/STAR.SPORTS1.HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="Sports",Star Sports 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg" group-title="Sports",Star Sports 2 HD.
+http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://ntv.newitventure.com//images/channel_logos/1.png" group-title="NEPALI CHANNELS",NTV HD
+https://nepaltv.nettvnepal.com.np/notoken/NTVNEPAL1500.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://ntv.newitventure.com//images/channel_logos/2.png" group-title="NEPALI CHANNELS",NTV Plus HD
+https://nepaltv.nettvnepal.com.np/notoken/hd-NtvPlus-1500.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://ntv.newitventure.com//images/channel_logos/3.png" group-title="NEPALI CHANNELS",NTV News HD
+https://nepaltv.nettvnepal.com.np/notoken/hd-NtvNews-1500.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="NEPALI CHANNELS",NTV Kohalpur HD
+https://nepaltv.nettvnepal.com.np/notoken/netNTVKOHALPUR1500.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="NEPALI CHANNELS",NTV Itahari HD
+https://nepaltv.nettvnepal.com.np/notoken/ntvithari.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="NEPALI CHANNELS",Kantipur TV HD (OPT 1)
+https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_720/chunks.m3u8
+
+#EXTINF:-1 group-title="NEPALI CHANNELS",Kantipur TV HD (OPT 2)
+https://ktvhdnpicc66.ekantipur.com/ktv_abr/hd/playlist.m3u8
+
+#EXTINF:-1 group-title="NEPALI CHANNELS",News24 Nepal
+http://tiny.cc/vnkklz
+
+#EXTINF:-1 group-title="NEPALI CHANNELS",ABC Nepal
+http://live.zecast.net/ntvglobal/nepalitv/chunklist.m3u8
+
+#EXTINF:-1 group-title="NEPALI CHANNELS",Image Channel Nepal
+http://imagetvonline.imagekhabar.com:1935/live/image/playlist.m3u8
+
+#EXTINF:-1 group-title="PEOPLE WILD ADVENTURE",Nat Geo WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
+#EXTINF:-1 group-title="PEOPLE WILD ADVENTURE",Nat Geo PEOPLE
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+
+#EXTINF:-1 group-title="PEOPLE WILD ADVENTURE",Nat Geo
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+
+#EXTINF:-1 group-title="PEOPLE WILD ADVENTURE",H2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT",AXN HD
+http://210.210.155.66/h/h141/index.m3u8
+
+#EXTINF:-1 group-title="NEWS",BBC News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1 group-title="NEWS",Sky News HD
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+
+#EXTINF:-1 group-title="SPORTS",Fox Sports News HD
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+#EXTINF:-1 group-title="XXX",BSX24
+http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
+
+#EXTINF:-1,*** Visit: www.techedubyte.com ***
+*** Visit: www.techedubyte.com ***
+
+#EXTINF:-1 tvg-name="USA - FS 1" tvg-logo="http://attp.ddns.net:25461/images/a7050bb2d5f80b031f5b8e01e2e241f1.png" group-title="USA",USA - FS 1
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57181
+
+#EXTINF:-1 tvg-name="USA - Disney Channel" tvg-logo="http://attp.ddns.net:25461/images/949f98ddbc9eafd74733a333a9453587.png" group-title="USA",USA - Disney Channel
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57183
+
+#EXTINF:-1 tvg-name="USA - HBO Pacific" tvg-logo="http://attp.ddns.net:25461/images/debc3ddcb13ce8736d96392b7d0b5882.png" group-title="USA",USA - HBO Pacific
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57184
+
+#EXTINF:-1 tvg-name="LA - Espn Deportes HD" tvg-logo="http://attp.ddns.net:25461/images/e473159f3c872e78b12d852d5215d710.png" group-title="Latino",LA - Espn Deportes HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57185
+
+#EXTINF:-1 tvg-id="c59337.AMC HD" tvg-name="USA - AMC HD" tvg-logo="http://attp.ddns.net:25461/images/00ff9f53d9b3e84335c49f9f394402db.png" group-title="USA",USA - AMC HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57187
+
+#EXTINF:-1 tvg-name="USA - We TV HD" tvg-logo="http://attp.ddns.net:25461/images/ba6b9f2e5c26868566f442dd9a5d9299.png" group-title="USA",USA - We TV HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57192
+
+#EXTINF:-1 tvg-name="USA - TNT Pacific" tvg-logo="http://attp.ddns.net:25461/images/0e80f682e36851b01735ce4d08fd6253.png" group-title="USA",USA - TNT Pacific
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57198
+
+#EXTINF:-1 tvg-name="USA - Freeform" tvg-logo="http://attp.ddns.net:25461/images/38fbcbd5e0845b4966fab4318e9886b6.png" group-title="USA",USA - Freeform
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57202
+
+#EXTINF:-1 tvg-name="USA - BBC America HD" tvg-logo="http://attp.ddns.net:25461/images/748adf9059a56e5929fd02a2c75a941d.png" group-title="USA",USA - BBC America HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57204
+
+#EXTINF:-1 tvg-name="USA - Boomerang HD" tvg-logo="http://2hubs.ddns.net:25461/images/00979f52985f4b12536513517430336b.png" group-title="USA",USA - Boomerang HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57206
+
+#EXTINF:-1 tvg-name="USA - BTN" tvg-logo="http://attp.ddns.net:25461/images/182faa285bf53da56f44c73eb6aff24f.png" group-title="USA",USA - BTN
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57208
+
+#EXTINF:-1 tvg-name="USA - CBS Sports Network" tvg-logo="http://attp.ddns.net:25461/images/df2c0ea634ed79e81b63be5336ff925c.png" group-title="USA",USA - CBS Sports Network
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57209
+
+#EXTINF:-1 tvg-name="USA - CNBC HD" tvg-logo="http://attp.ddns.net:25461/images/3e8d515b4c8616a62e016a4a01a94460.png" group-title="USA",USA - CNBC HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57212
+
+#EXTINF:-1 tvg-name="USA - CNBC World" tvg-logo="http://attp.ddns.net:25461/images/3e8d515b4c8616a62e016a4a01a94460.png" group-title="USA",USA - CNBC World
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57213
+
+#EXTINF:-1 tvg-name="USA - CNN" tvg-logo="http://attp.ddns.net:25461/images/3b28681ca92c1a20a634cecda3944f7d.png" group-title="USA",USA - CNN
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57214
+
+#EXTINF:-1 tvg-name="USA - Cozi TV" tvg-logo="http://attp.ddns.net:25461/images/5d110eea235ddb0da4448c581d4fd3a0.png" group-title="USA",USA - Cozi TV
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57216
+
+#EXTINF:-1 tvg-name="USA - Cartoon Network Pacific" tvg-logo="http://attp.ddns.net:25461/images/decc920c5117ca012418b6cb9d52721c.png" group-title="USA",USA - Cartoon Network Pacific
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57234
+
+#EXTINF:-1 tvg-name="USA - Cartoon Network HD" tvg-logo="http://attp.ddns.net:25461/images/decc920c5117ca012418b6cb9d52721c.png" group-title="USA",USA - Cartoon Network HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57233
+
+#EXTINF:-1 tvg-name="USA - Disney XD" tvg-logo="http://attp.ddns.net:25461/images/949f98ddbc9eafd74733a333a9453587.png" group-title="USA",USA - Disney XD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57232
+
+#EXTINF:-1 tvg-name="USA - FOX BUSINESS NETWORK" tvg-logo="http://attp.ddns.net:25461/images/81b1667166eb6b52d43cad916a4fa9b6.png" group-title="USA",USA - FOX BUSINESS NETWORK
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57230
+
+#EXTINF:-1 tvg-name="USA - FOOD NETWORK HD" tvg-logo="http://attp.ddns.net:25461/images/3a539e54baaea66546ab4873eefa74d3.png" group-title="USA",USA - FOOD NETWORK HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57229
+
+#EXTINF:-1 tvg-id="c45654.ESPNU" tvg-name="USA - ESPN U" tvg-logo="http://attp.ddns.net:25461/images/e25bcf6ef31839a95a7221141cc1083e.png" group-title="USA",USA - ESPN U
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57228
+
+#EXTINF:-1 tvg-name="USA - ESPN 2" tvg-logo="http://attp.ddns.net:25461/images/03e2bf48dd6f611218b2ae3a2787b98a.png" group-title="USA",USA - ESPN 2
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57222
+
+#EXTINF:-1 tvg-name="USA - Discovery Velocity" tvg-logo="http://attp.ddns.net:25461/images/089d3ca00dd8cc773f33a3338c514f78.png" group-title="USA",USA - Discovery Velocity
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57419
+
+#EXTINF:-1 tvg-name="USA - DESTINATION AMERICA HD" tvg-logo="http://attp.ddns.net:25461/images/171818dbde29aa7b7f2d6cf3476a1e72.png" group-title="USA",USA - DESTINATION AMERICA HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57418
+
+#EXTINF:-1 tvg-name="USA - Discovery TLC" tvg-logo="http://attp.ddns.net:25461/images/bfa19dac3ee59b7fcb0d8af793465d06.png" group-title="USA",USA - Discovery TLC
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57416
+
+#EXTINF:-1 tvg-name="USA - FXM HD" tvg-logo="http://attp.ddns.net:25461/images/3d5b6164e1cec8c2de15243c9004755b.png" group-title="USA",USA - FXM HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57386
+
+#EXTINF:-1 tvg-name="USA - FX HD" tvg-logo="http://attp.ddns.net:25461/images/0841250fcf6174b3249e3f046e43c211.png" group-title="USA",USA - FX HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57385
+
+#EXTINF:-1 tvg-name="USA - Fox News Channel" tvg-logo="http://2hubs.ddns.net:25461/images/6fbae999377e48388b54e3cf0f96e334.png" group-title="USA",USA - Fox News Channel
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57383
+
+#EXTINF:-1 tvg-name="USA - Diy" tvg-logo="http://attp.ddns.net:25461/images/3adc3c4b047647259cdc09f5e6151716.png" group-title="USA",USA - Diy
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57382
+
+#EXTINF:-1 tvg-name="USA - Nat Geo" tvg-logo="http://attp.ddns.net:25461/images/05f56098b0cceb4b6c7ee08de0c30433.png" group-title="USA",USA - Nat Geo
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57470
+
+#EXTINF:-1 tvg-name="USA - NBC Sports California" tvg-logo="http://attp.ddns.net:25461/images/bd1ab893a05d5cf36ed5e3a04f504ce9.png" group-title="USA",USA - NBC Sports California
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57469
+
+#EXTINF:-1 tvg-name="USA - NBC Sports NorthWest" tvg-logo="http://attp.ddns.net:25461/images/bd1ab893a05d5cf36ed5e3a04f504ce9.png" group-title="USA",USA - NBC Sports NorthWest
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57467
+
+#EXTINF:-1 tvg-name="USA - NBC Sports Boston" tvg-logo="http://attp.ddns.net:25461/images/bd1ab893a05d5cf36ed5e3a04f504ce9.png" group-title="USA",USA - NBC Sports Boston
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57466
+
+#EXTINF:-1 tvg-name="USA - Freeform HD" tvg-logo="http://attp.ddns.net:25461/images/d2d47c1eab8356bd622b00911f33a52e.png" group-title="USA",USA - Freeform HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57462
+
+#EXTINF:-1 tvg-name="USA - Nat Geo Wild" tvg-logo="http://attp.ddns.net:25461/images/ff6ade562713dcbb26bdfe7b4c4f314f.png" group-title="USA",USA - Nat Geo Wild
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57460
+
+#EXTINF:-1 tvg-name="USA - E !" tvg-logo="http://attp.ddns.net:25461/images/e92fe99c105aae553f77b8a274000574.png" group-title="USA",USA - E !
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57459
+
+#EXTINF:-1 tvg-name="USA - Yes Network" tvg-logo="http://attp.ddns.net:25461/images/99f5a64c08999e82b562ea71f097257c.png" group-title="USA",USA - Yes Network
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57458
+
+#EXTINF:-1 tvg-name="USA - FOX Sports West" tvg-logo="http://attp.ddns.net:25461/images/6fbae999377e48388b54e3cf0f96e334.png" group-title="USA",USA - FOX Sports West
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57455
+
+#EXTINF:-1 tvg-name="USA - FOX Sports Sun" tvg-logo="http://attp.ddns.net:25461/images/6fbae999377e48388b54e3cf0f96e334.png" group-title="USA",USA - FOX Sports Sun
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57454
+
+#EXTINF:-1 tvg-name="USA - FOX Sports South" tvg-logo="http://attp.ddns.net:25461/images/6fbae999377e48388b54e3cf0f96e334.png" group-title="USA",USA - FOX Sports South
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57453
+
+#EXTINF:-1 tvg-name="USA - FOX Sports San Diego" tvg-logo="http://attp.ddns.net:25461/images/6fbae999377e48388b54e3cf0f96e334.png" group-title="USA",USA - FOX Sports San Diego
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57452
+
+#EXTINF:-1 tvg-name="USA - FOX Sports Ohio" tvg-logo="http://attp.ddns.net:25461/images/6fbae999377e48388b54e3cf0f96e334.png" group-title="USA",USA - FOX Sports Ohio
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57450
+
+#EXTINF:-1 tvg-name="USA - FOX Sports North" tvg-logo="http://attp.ddns.net:25461/images/6fbae999377e48388b54e3cf0f96e334.png" group-title="USA",USA - FOX Sports North
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57449
+
+#EXTINF:-1 tvg-name="USA - Fox Sports Detroit" tvg-logo="http://attp.ddns.net:25461/images/6fbae999377e48388b54e3cf0f96e334.png" group-title="USA",USA - Fox Sports Detroit
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57448
+
+#EXTINF:-1 tvg-name="USA - Fox Sports Arizona" tvg-logo="http://attp.ddns.net:25461/images/6fbae999377e48388b54e3cf0f96e334.png" group-title="USA",USA - Fox Sports Arizona
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57447
+
+#EXTINF:-1 tvg-name="USA - Fox Soccer Plus" tvg-logo="http://attp.ddns.net:25461/images/6fbae999377e48388b54e3cf0f96e334.png" group-title="USA",USA - Fox Soccer Plus
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57443
+
+#EXTINF:-1 tvg-name="USA - MSNBC" tvg-logo="http://attp.ddns.net:25461/images/098860c7d7188a1b1b9996b8e883b585.png" group-title="USA",USA - MSNBC
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57441
+
+#EXTINF:-1 tvg-name="USA - HLN HD" tvg-logo="http://attp.ddns.net:25461/images/2c5ad7eb0d24405bef6708d754bfcfc8.png" group-title="USA",USA - HLN HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57437
+
+#EXTINF:-1 tvg-name="USA - NBA TV" tvg-logo="http://attp.ddns.net:25461/images/16349fd71957c9a723df2fe254b002c1.png" group-title="USA",USA - NBA TV
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57436
+
+#EXTINF:-1 tvg-name="USA - NESN Plus" tvg-logo="http://attp.ddns.net:25461/images/6e2dc620e38af20658b9c5a8fb9531df.png" group-title="USA",USA - NESN Plus
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57434
+
+#EXTINF:-1 tvg-name="LA - CNN en Español" tvg-logo="http://attp.ddns.net:25461/images/94f0d94591c6a2a37eac5877e8b3f1a4.png" group-title="Latino",LA - CNN en Español
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57431
+
+#EXTINF:-1 tvg-name="USA - Syfy" tvg-logo="http://attp.ddns.net:25461/images/41e850c3e87e3f7b7fc93a798db15b4f.png" group-title="USA",USA - Syfy
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57430
+
+#EXTINF:-1 tvg-name="USA - TBS" tvg-logo="http://attp.ddns.net:25461/images/1e41b2fc5b8066ab4a15ac9b1ed9258e.png" group-title="USA",USA - TBS
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57429
+
+#EXTINF:-1 tvg-name="USA - NFL Network HD" tvg-logo="http://attp.ddns.net:25461/images/587b38141187ec000e730b38d6893fdc.png" group-title="USA",USA - NFL Network HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57428
+
+#EXTINF:-1 tvg-name="USA - SNY" tvg-logo="http://attp.ddns.net:25461/images/4379cfc6f0c509d30c0037eeb3a76084.png" group-title="USA",USA - SNY
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57514
+
+#EXTINF:-1 tvg-name="USA - Smithsonian Channel" tvg-logo="http://attp.ddns.net:25461/images/0594ecd8e1d947c837667c0c9e99a101.png" group-title="USA",USA - Smithsonian Channel
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57513
+
+#EXTINF:-1 tvg-name="USA - Law And Crime" tvg-logo="http://attp.ddns.net:25461/images/1cbdf3fc5c9c19227c181545b143aaa8.png" group-title="USA",USA - Law And Crime
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57510
+
+#EXTINF:-1 tvg-name="USA - IFC" tvg-logo="http://attp.ddns.net:25461/images/75c08013f8dfb9821e6bf7f5e77a6c63.png" group-title="USA",USA - IFC
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57509
+
+#EXTINF:-1 tvg-name="USA - Comet" tvg-logo="http://attp.ddns.net:25461/images/40e207921f8e27d602ff21c99c85dc1a.png" group-title="USA",USA - Comet
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57505
+
+#EXTINF:-1 tvg-name="USA - Cheddar" tvg-logo="http://attp.ddns.net:25461/images/7089a88710a458996226ef7f3883cf71.png" group-title="USA",USA - Cheddar
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57503
+
+#EXTINF:-1 tvg-name="USA - Outside TV" tvg-logo="http://attp.ddns.net:25461/images/00dc6bdfb1a6b7658ab4b69c897cae0f.png" group-title="USA",USA - Outside TV
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57497
+
+#EXTINF:-1 tvg-name="USA - FOX Sports Oklahoma" tvg-logo="http://attp.ddns.net:25461/images/6098c1092201d98414b39e2d12b5a79d.png" group-title="USA",USA - FOX Sports Oklahoma
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57496
+
+#EXTINF:-1 tvg-name="USA - FOX Sports Tennessee" tvg-logo="http://attp.ddns.net:25461/images/6098c1092201d98414b39e2d12b5a79d.png" group-title="USA",USA - FOX Sports Tennessee
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57487
+
+#EXTINF:-1 tvg-name="USA - NBC Sports Chicago" tvg-logo="http://attp.ddns.net:25461/images/bd1ab893a05d5cf36ed5e3a04f504ce9.png" group-title="USA",USA - NBC Sports Chicago
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57486
+
+#EXTINF:-1 tvg-name="USA - FOX Sports Florida" tvg-logo="http://attp.ddns.net:25461/images/6098c1092201d98414b39e2d12b5a79d.png" group-title="USA",USA - FOX Sports Florida
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57485
+
+#EXTINF:-1 tvg-name="USA - FOX Sports Southwest" tvg-logo="http://attp.ddns.net:25461/images/6098c1092201d98414b39e2d12b5a79d.png" group-title="USA",USA - FOX Sports Southwest
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57484
+
+#EXTINF:-1 tvg-name="USA - FOX Sports Southeast" tvg-logo="http://attp.ddns.net:25461/images/6098c1092201d98414b39e2d12b5a79d.png" group-title="USA",USA - FOX Sports Southeast
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57483
+
+#EXTINF:-1 tvg-name="USA - FOX Sports Prime Ticket" tvg-logo="http://attp.ddns.net:25461/images/6098c1092201d98414b39e2d12b5a79d.png" group-title="USA",USA - FOX Sports Prime Ticket
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57482
+
+#EXTINF:-1 tvg-name="USA - HGTV" tvg-logo="http://attp.ddns.net:25461/images/217e0d9219f2a7ee4ec6a931950bb759.png" group-title="USA",USA - HGTV
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57480
+
+#EXTINF:-1 tvg-name="USA - Fox Life HD" tvg-logo="http://attp.ddns.net:25461/images/bc1741d70d8ba7f7d0e0b46d2433c1cb.png" group-title="USA",USA - Fox Life HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57476
+
+#EXTINF:-1 tvg-name="Pak - PTV WORLD" tvg-logo="http://attp.ddns.net:25461/images/452f3d41ec7d82512cda0ed1434ddd37.png" group-title="Pakistani",Pak - PTV WORLD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57982
+
+#EXTINF:-1 tvg-name="Pak - TEN SPORTS" tvg-logo="http://attp.ddns.net:25461/images/4ee9f88fbbbc0f8891dd86cb30e6da88.png" group-title="Pakistani",Pak - TEN SPORTS
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57987
+
+#EXTINF:-1 tvg-name="Pak - KHYBER TV" tvg-logo="http://attp.ddns.net:25461/images/d8e6e213d722ef13d5e3118f8753e46c.png" group-title="Pakistani",Pak - KHYBER TV
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57989
+
+#EXTINF:-1 tvg-name="Pak - ARY World" tvg-logo="http://attp.ddns.net:25461/images/e818ba4e17b4962e5f3fa9a21b8d66e3.png" group-title="Pakistani",Pak - ARY World
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57990
+
+#EXTINF:-1 tvg-name="PAK - MADINA" tvg-logo="http://attp.ddns.net:25461/images/06fa6dc254bf110d42969ec681ba1488.png" group-title="Pakistani",PAK - MADINA
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57992
+
+#EXTINF:-1 tvg-name="Pak - HUM TV HD" tvg-logo="http://attp.ddns.net:25461/images/8706192480308f6a9368ea99841c711b.png" group-title="Pakistani",Pak - HUM TV HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57993
+
+#EXTINF:-1 tvg-name="Pak - HUM SITARY" tvg-logo="http://attp.ddns.net:25461/images/cdc811ebe3602c054ffc86e6bea0d4c7.png" group-title="Pakistani",Pak - HUM SITARY
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57999
+
+#EXTINF:-1 tvg-name="Pak - GEO SUPER" tvg-logo="http://attp.ddns.net:25461/images/04f15110884ae0918e75e74c27ffda93.png" group-title="Pakistani",Pak - GEO SUPER
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58000
+
+#EXTINF:-1 tvg-name="Pak - GEO NEWS" tvg-logo="http://attp.ddns.net:25461/images/fb0113db330ef13e35fd3556ff8faa2f.png" group-title="Pakistani",Pak - GEO NEWS
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58001
+
+#EXTINF:-1 tvg-name="Pak - ARY NEWS" tvg-logo="http://attp.ddns.net:25461/images/f04f70b1105c533d0176b2f58a2fa7c7.png" group-title="Pakistani",Pak - ARY NEWS
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58004
+
+#EXTINF:-1 tvg-name="Pak - ARY DIGITAL" tvg-logo="http://attp.ddns.net:25461/images/e946542991cee2775b6021b13ae817e5.png" group-title="Pakistani",Pak - ARY DIGITAL
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58005
+
+#EXTINF:-1 tvg-name="Pak - BOL NEWS HD" tvg-logo="http://attp.ddns.net:25461/images/5e13417607698c5fd6c4e08f68770396.png" group-title="Pakistani",Pak - BOL NEWS HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58003
+
+#EXTINF:-1 tvg-name="Pak - Geo Tv UK" tvg-logo="http://attp.ddns.net:25461/images/83f92fbbbd5798afa6286848106e982c.png" group-title="Pakistani",Pak - Geo Tv UK
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58016
+
+#EXTINF:-1 tvg-name="Pak - HUM TV WORLD" tvg-logo="http://attp.ddns.net:25461/images/13f924d8aae1abbf231128beda8e98c8.png" group-title="Pakistani",Pak - HUM TV WORLD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58019
+
+#EXTINF:-1 tvg-name="Pak - TV ONE" tvg-logo="http://attp.ddns.net:25461/images/6c1f0b6a003bfa6c7dd8fd8aea10b02c.png" group-title="Pakistani",Pak - TV ONE
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58176
